@@ -30,4 +30,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anuh02/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/anuh02/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
