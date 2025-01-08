@@ -38,12 +38,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0009-palindrome-number](https://github.com/anuh02/Leetcode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/anuh02/Leetcode/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/anuh02/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/anuh02/Leetcode/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/anuh02/Leetcode/tree/master/1013-fibonacci-number) |
 ## String Matching
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/anuh02/Leetcode/tree/master/1524-string-matching-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/anuh02/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/anuh02/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
