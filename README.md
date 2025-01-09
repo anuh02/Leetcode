@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/anuh02/Leetcode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/anuh02/Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/anuh02/Leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/anuh02/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -58,10 +59,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/anuh02/Leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/anuh02/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/anuh02/Leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/anuh02/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Trie
 |  |
 | ------- |
