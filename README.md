@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/anuh02/Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/anuh02/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/anuh02/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1642-water-bottles](https://github.com/anuh02/Leetcode/tree/master/1642-water-bottles) |
 ## Recursion
 |  |
 | ------- |
@@ -80,4 +81,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anuh02/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/anuh02/Leetcode/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
