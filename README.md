@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/anuh02/Leetcode/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/anuh02/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anuh02/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/anuh02/Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/anuh02/Leetcode/tree/master/1013-fibonacci-number) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/anuh02/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anuh02/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/anuh02/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/anuh02/Leetcode/tree/master/0213-house-robber-ii) |
@@ -124,4 +126,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/anuh02/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/anuh02/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
