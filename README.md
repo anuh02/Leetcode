@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/anuh02/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/anuh02/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/anuh02/Leetcode/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/anuh02/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0952-word-subsets](https://github.com/anuh02/Leetcode/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/anuh02/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1524-string-matching-in-an-array](https://github.com/anuh02/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/anuh02/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/anuh02/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/anuh02/Leetcode/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/anuh02/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/anuh02/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/anuh02/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/anuh02/Leetcode/tree/master/1236-n-th-tribonacci-number) |
