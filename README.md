@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/anuh02/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/anuh02/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/anuh02/Leetcode/tree/master/0213-house-robber-ii) |
+| [0268-missing-number](https://github.com/anuh02/Leetcode/tree/master/0268-missing-number) |
 | [0416-partition-equal-subset-sum](https://github.com/anuh02/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/anuh02/Leetcode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/anuh02/Leetcode/tree/master/0494-target-sum) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/anuh02/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/anuh02/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0268-missing-number](https://github.com/anuh02/Leetcode/tree/master/0268-missing-number) |
 | [0952-word-subsets](https://github.com/anuh02/Leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/anuh02/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anuh02/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/anuh02/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/anuh02/Leetcode/tree/master/0268-missing-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anuh02/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/anuh02/Leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/anuh02/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -78,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/anuh02/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/anuh02/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/anuh02/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/anuh02/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/anuh02/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/anuh02/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/anuh02/Leetcode/tree/master/1642-water-bottles) |
@@ -171,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anuh02/Leetcode/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/anuh02/Leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/anuh02/Leetcode/tree/master/0455-assign-cookies) |
 ## Backtracking
 |  |
@@ -180,4 +185,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anuh02/Leetcode/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/anuh02/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
