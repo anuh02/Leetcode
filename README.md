@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anuh02/Leetcode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/anuh02/Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/anuh02/Leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/anuh02/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/anuh02/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/anuh02/Leetcode/tree/master/0031-next-permutation) |
 | [0455-assign-cookies](https://github.com/anuh02/Leetcode/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
