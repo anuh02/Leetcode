@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/anuh02/Leetcode/tree/master/0268-missing-number) |
 | [0416-partition-equal-subset-sum](https://github.com/anuh02/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/anuh02/Leetcode/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/anuh02/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/anuh02/Leetcode/tree/master/0494-target-sum) |
 | [0952-word-subsets](https://github.com/anuh02/Leetcode/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/anuh02/Leetcode/tree/master/0967-minimum-falling-path-sum) |
