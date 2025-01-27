@@ -195,4 +195,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/anuh02/Leetcode/tree/master/0268-missing-number) |
+## Database
+|  |
+| ------- |
+| [1827-invalid-tweets](https://github.com/anuh02/Leetcode/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
