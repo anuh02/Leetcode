@@ -209,4 +209,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/anuh02/Leetcode/tree/master/0322-coin-change) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/anuh02/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+## Union Find
+|  |
+| ------- |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/anuh02/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+## Graph
+|  |
+| ------- |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/anuh02/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 <!---LeetCode Topics End-->
