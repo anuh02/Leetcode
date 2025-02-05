@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/anuh02/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0952-word-subsets](https://github.com/anuh02/Leetcode/tree/master/0952-word-subsets) |
 | [1250-longest-common-subsequence](https://github.com/anuh02/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1502-construct-k-palindrome-strings](https://github.com/anuh02/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/anuh02/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/anuh02/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/anuh02/Leetcode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/anuh02/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/anuh02/Leetcode/tree/master/0518-coin-change-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/anuh02/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/anuh02/Leetcode/tree/master/1013-fibonacci-number) |
