@@ -6,10 +6,7 @@ class Solution {
         boolean dp[][] = new boolean[n+1][m+1];
 
         dp[0][0] = true;
-        for(int j = 1 ; j<=m;j++)
-        {
-            dp[0][j] = false;
-        }
+        
 
         for(int i=1;i<=n;i++)
         {
