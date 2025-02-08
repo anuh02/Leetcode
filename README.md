@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/anuh02/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/anuh02/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/anuh02/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/anuh02/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/anuh02/Leetcode/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/anuh02/Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/anuh02/Leetcode/tree/master/1013-fibonacci-number) |
 ## String Matching
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/anuh02/Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/anuh02/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/anuh02/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/anuh02/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -162,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/anuh02/Leetcode/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/anuh02/Leetcode/tree/master/0455-assign-cookies) |
 | [1502-construct-k-palindrome-strings](https://github.com/anuh02/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/anuh02/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
